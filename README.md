@@ -1,7 +1,7 @@
 # Project detail 
 Netflix Clone 
 # About Project
-This is the project under Bharat intern 
+This is the project under Bharat intern .
 ![Screenshot (165)](https://github.com/guptaravimp/Netflixproject/assets/142169363/21071e3c-cfae-435d-b347-7846a53796c1)
 ![Screenshot (166)](https://github.com/guptaravimp/Netflixproject/assets/142169363/7b8b0a69-1d4a-43b1-ad06-eed21b5311db)
 ![Screenshot (167)](https://github.com/guptaravimp/Netflixproject/assets/142169363/78b28c5d-23e9-4082-9cae-e740fe709223)
